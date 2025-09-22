@@ -18,7 +18,7 @@ Given a record of every transaction during a three month period, calculate the r
 
 - ** Business logic for reward calculation**
 
-- ** JUnit 5 with Mockito**
+- ** JUnit 5**
 
 - ** REST endpoint: POST /api/customer/rewards**
 
@@ -39,5 +39,10 @@ mvn clean install
 ```
 
 The application will be accessible at http://localhost:8080/
+
+localhost:8080/api/customer/rewards
+
+<img width="939" height="314" alt="image" src="https://github.com/user-attachments/assets/0cf726ef-5609-4d79-baf0-7087154d37eb" />
+
 
 
