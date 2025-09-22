@@ -8,6 +8,9 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
+/**
+ * Response object hold the customerId, monthly points and total points
+ */
 @Getter
 @Setter
 @AllArgsConstructor

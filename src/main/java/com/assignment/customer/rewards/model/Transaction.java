@@ -8,6 +8,9 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
+/**
+ * Request parameters from the transaction file
+ */
 @Getter
 @Setter
 @AllArgsConstructor
